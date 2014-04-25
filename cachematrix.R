@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #Programming Assignment 2: Caching the Inverse of a Matrix
+=======
+##Programming Assignment 2: Caching the Inverse of a Matrix
+>>>>>>> 8b19042756ba854fc8458949e73a12188b4472a9
 
 #This assignment introduces the <<- operator which can be used to 
 #assign a value to an object in an environment that is different from
@@ -74,6 +78,7 @@ cacheSolve <- function(x, ...) {
 # [1,]  -0.06666667    0.26666667
 # [2,]   0.26666667   -0.06666667
 
+<<<<<<< HEAD
 
 
 
@@ -81,3 +86,5 @@ cacheSolve <- function(x, ...) {
 
 
 
+=======
+>>>>>>> 8b19042756ba854fc8458949e73a12188b4472a9
