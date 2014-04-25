@@ -1,4 +1,4 @@
-##Programming Assignment 2: Cacheing the Inverse of a Matrix
+##Programming Assignment 2: Cache the Inverse of a Matrix
 
 #This assignment introduces the <<- operator which can be used to 
 #assign a value to an object in an environment that is different from
